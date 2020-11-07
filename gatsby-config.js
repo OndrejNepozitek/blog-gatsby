@@ -114,7 +114,7 @@ module.exports = {
             options: {
               maxWidth: 960,
               withWebp: true,
-              ignoreFileExtensions: [],
+              // ignoreFileExtensions: [],
             }
           },
           {
